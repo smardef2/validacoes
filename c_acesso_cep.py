@@ -1,3 +1,4 @@
+# incluindo comentario
 import requests
 # testando
 class Busca_Endereco:
